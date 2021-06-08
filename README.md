@@ -1,2 +1,2 @@
 # Sheremeta Roksolana CV
-[Open CV](https://roksolanasheremeta.github.io/goals6mount){:target="_blank"}
+[Open CV](https://roksolanasheremeta.github.io/goals6mount)

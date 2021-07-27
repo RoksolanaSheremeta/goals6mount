@@ -1,2 +1,2 @@
 # Sheremeta Roksolana CV
-[Open CV (https://roksolanasheremeta.github.io/myCV)](https://roksolanasheremeta.github.io/myCV)
+[Open CV (https://roksolanasheremeta.github.io/CV/)](https://roksolanasheremeta.github.io/CV/)
